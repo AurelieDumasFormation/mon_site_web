@@ -1,3 +1,8 @@
 tmp/todo.txt
 tmp/*
+<<<<<<< HEAD
 *.xml
+=======
+*.txt
+
+>>>>>>> 9e2a03d4a2737dc6b73a2b4f59d05c1965d41ae7
